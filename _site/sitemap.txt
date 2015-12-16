@@ -1,11 +1,11 @@
 
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+https://2scale.github.io/archive.html
+https://2scale.github.io/atom.xml
+https://2scale.github.io/categories.html
+https://2scale.github.io/index.html
+https://2scale.github.io/pages.html
+https://2scale.github.io/rss.xml
+https://2scale.github.io/sitemap.txt
+https://2scale.github.io/tags.html
 
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+https://2scale.github.io/general/2015/12/16/welcome
